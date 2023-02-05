@@ -62,7 +62,7 @@ hara = (
 )
 
 ds = (
-"Oçürük dişlərivi az reklam elə",
+"Çürük dişlərivi az reklam elə",
 "Gözlərim qamaşdı",
 "Çürüyüb dişlərin😂",
 "Sən öl deyirəm mal yəsinə oxşuyar😂😂",
