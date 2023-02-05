@@ -16,5 +16,6 @@ yeni_user = (
 
 start = (
 "Xoş gəlmisən",
+"Gözdüyürsən deyimki xoş gəldin ? 😂",
 "Grupda söhbətlər daha marağlı olacağ. 😂",
 )
