@@ -42,6 +42,7 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 @Nermin.on(events.NewMessage(pattern='(?i)Necəsən+'))
 @Nermin.on(events.NewMessage(pattern='(?i)Necesen+'))
 @Nermin.on(events.NewMessage(pattern='(?i)Necəsiz+'))
+@Nermin.on(events.NewMessage(pattern='(?i)Necəsiiz+'))
 @Nermin.on(events.NewMessage(pattern='(?i)necəsiz+'))
 @Nermin.on(events.NewMessage(pattern='(?i)nətərsən+'))
 @Nermin.on(events.NewMessage(pattern='(?i)Nətərsən+'))
