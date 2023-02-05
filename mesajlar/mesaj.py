@@ -60,6 +60,13 @@ hara = (
 "Sən yoluna mən yoluma",
 )
 
+bax = (
+"Nəyə baxırsan",
+"Baxmağdan doydun",
+"Gözün çıxmasin yazığsan",
+"Gözün çıxsın kimi güdürsen",
+)
+
 nrs = (
 "Nənə",
 "Quyruğuva gənə",
