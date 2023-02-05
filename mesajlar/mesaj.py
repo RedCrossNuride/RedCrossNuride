@@ -60,7 +60,7 @@ hara = (
 "Sən yoluna mən yoluma",
 )
 
-bax = (
+brs = (
 "Nəyə baxırsan",
 "Baxmağdan doydun",
 "Gözün çıxmasin yazığsan",
