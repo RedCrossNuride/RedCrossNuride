@@ -75,6 +75,17 @@ nrs = (
 "Qınamıram eee. Qandığın qırafa odu",
 )
 
+gul1 = (
+"Sənə gülməyi kim öyrədib",
+"Az gül",
+)
+
+gul2 = (
+"mədəvin içini gördüm yavaş",
+"Gülməkdən öldün",
+"Gülüşüvə öküz kəsim",
+)
+
 can = (
 "Haycannn",
 "Haycannn, Quzu kəsime sənə",
