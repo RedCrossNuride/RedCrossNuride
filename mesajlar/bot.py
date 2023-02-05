@@ -11,12 +11,10 @@ yeni_user = (
 "Xoş Gəldin Balam 😍",
 "Səni gözləməydən gözüm qaralıbe gəl çıxdaa",
 "Xoşsann Ürəyimm ❤️",
+"Səni kim gətirdi bura necə gəlmisən elədə get😏",
 )
 
 start = (
-"Gəldi başımın bəlası 😂❤️",
-"Nədi ba dinc duranmadın ? 😂",
-"Gözdüyürsən deyimki xoş gəldin ? 😂",
-"Ay bala mucuxlamasan olmur ? 😂",
-"Yaman bekarsan ha öz aramızdı 😂",
+"Xoş gəlmisən",
+"Grupda söhbətlər daha marağlı olacağ. 😂",
 )
