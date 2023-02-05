@@ -41,6 +41,15 @@ sagol = (
 "Sağol Xanım qız",
 )
 
+sd = (
+"Allah şəfa versin",
+"Ölürsən",
+"103 çağırım",
+"Ölsən halvan mənlik",
+"Halva qoxusu gəlir",
+"Hamı toplansın ölən var",
+)
+
 getdim = (
 "Hara",
 )
