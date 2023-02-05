@@ -11,7 +11,7 @@
 
 from komekci.aykhan import Nermin
 import base64
-from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, hi, hara, nazli, nrs, sev, yuxu, haralisan, can, yas, nermin, ban
+from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, hi, hara, nazli, nrs, sev, bax, yuxu, haralisan, can, yas, nermin, ban
 from mesajlar.bot import yeni_user, start
 from telethon import events, Button
 import random
@@ -58,6 +58,12 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 @Nermin.on(events.NewMessage(pattern='(?i)gedirəm+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(getdim)}")
+
+@Nermin.on(events.NewMessage(pattern='(?i)👀+'))
+@Nermin.on(events.NewMessage(pattern='(?i)👀👀+'))
+@Nermin.on(events.NewMessage(pattern='(?i)👀👀👀+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(bax)}")
 
 @Nermin.on(events.NewMessage(pattern='(?i)gəldim+'))
 @Nermin.on(events.NewMessage(pattern='(?i)geldim+'))
