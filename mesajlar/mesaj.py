@@ -129,6 +129,13 @@ yas = (
 "Yaşın nə fərqi varki sevirəm səni",
 )
 
+ax = (
+"Xeyir olmasın günün",
+"Səni kim çağırdı bax",
+"Sən niyə gəldin",
+"Hər anın xeyir",
+)
+
 sev = (
 "Buyur Ömrüm",
 "Məndə səni sevirəm",
