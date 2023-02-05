@@ -65,6 +65,7 @@ nrs = (
 "Quyruğuva gənə",
 "Az nərildə",
 "Azzar nə",
+"Qınamıram eee. Qandığın qırafa odu",
 )
 
 can = (
