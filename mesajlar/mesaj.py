@@ -60,6 +60,13 @@ hara = (
 "Sən yoluna mən yoluma",
 )
 
+nrs = (
+"Nənə",
+"Quyruğuva gənə",
+"Az nərildə",
+"Azzar nə",
+)
+
 can = (
 "Haycannn",
 "Haycannn, Quzu kəsime sənə",
