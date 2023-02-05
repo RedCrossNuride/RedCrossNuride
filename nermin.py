@@ -1,17 +1,9 @@
-# Bu repo aykhan_s tərəfindən 29.11.2022 tarixində yığılıb
-# Bu repodan icazəsiz hər hansı kodu sətri məlumatı kopyalıyıb
-# Öz adına çıxaran peysərdi
-# Bu yazıları silmədən işlədin
-
-# t.me/RoBotlarimTg | YouTube: RoBotlarimTg |
-# t.me/aykhan_s | insta: aykhan026 | 
-# GitHub: aykhan026
 
 
 
 from komekci.aykhan import Nermin
 import base64
-from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, hi, hara, nazli, nrs, sev, gul1, gul2, brs, yuxu, haralisan, can, yas, nermin, ban
+from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, hi, hara, nazli, ax, nrs, sev, gul1, gul2, brs, yuxu, haralisan, can, yas, nermin, ban
 from mesajlar.bot import yeni_user, start
 from telethon import events, Button
 import random
@@ -165,6 +157,13 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(sev)}")
 
+
+@Nermin.on(events.NewMessage(pattern='(?i)Axşamınız xeyir+'))
+@Nermin.on(events.NewMessage(pattern='(?i)Axsaminiz xeyir+'))
+@Nermin.on(events.NewMessage(pattern='(?i)axşamınız xeyir+'))
+@Nermin.on(events.NewMessage(pattern='(?i)axsaminiz xeyir+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(ax)}")
 
 @Nermin.on(events.NewMessage(pattern='(?i)Nə+'))
 @Nermin.on(events.NewMessage(pattern='(?i)nə+'))
