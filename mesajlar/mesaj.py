@@ -33,6 +33,13 @@ sagol = (
 "Sağol Xanım qız",
 )
 
+ny = (
+"Heçnə oturmuşam",
+"Çay içirəm",
+"Kofe içirəm gəl qonağ ol",
+"Qonağ gəlmişəm",
+)
+
 sd = (
 "Allah şəfa versin",
 "Ölürsən",
