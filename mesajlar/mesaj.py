@@ -42,7 +42,7 @@ ny = (
 "Yemək yeyirəm",
 )
 
-nv = (
+cg = (
 "Sən yat məndə yataram",
 "Mənə deyənimə bir bax,
 "sən niyə oyağsan",
