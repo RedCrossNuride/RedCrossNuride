@@ -3,7 +3,7 @@
 
 from komekci.aykhan import Nermin
 import base64
-from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, hi, hara, ds, nazli, sd, ny,ax, nrs, sev, gul1, gul2, brs, yuxu, haralisan, can, yas, nermin, ban
+from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, am, hi, hara, ds, nazli, sd, ny,ax, nrs, sev, gul1, gul2, brs, yuxu, haralisan, can, yas, nermin, ban
 from mesajlar.bot import yeni_user, start
 from telethon import events, Button
 import random
@@ -77,7 +77,7 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 @Nermin.on(events.NewMessage(pattern='(?i)Niye yatmirsan+'))
 @Nermin.on(events.NewMessage(pattern='(?i)niye yatmırsan+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
-    await event.reply(f"{random.choice(cg)}")
+    await event.reply(f"{random.choice(am)}")
 
 @Nermin.on(events.NewMessage(pattern='(?i)Neyniyirsən+'))
 @Nermin.on(events.NewMessage(pattern='(?i)neyniyirsən+'))
