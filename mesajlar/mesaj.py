@@ -38,6 +38,15 @@ ny = (
 "Çay içirəm",
 "Kofe içirəm gəl qonağ ol",
 "Qonağ gəlmişəm",
+"Qızlarla gəzirəm",
+"Yemək yeyirəm",
+)
+
+niye = (
+"Sən yat məndə yataram",
+"Mənə deyənimə bir bax,
+"sən niyə oyağsan",
+"Yuxum gəlmir",
 )
 
 sd = (
