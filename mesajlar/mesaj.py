@@ -51,6 +51,14 @@ sd = (
 "Hamı toplansın ölən var",
 )
 
+am = (
+"Mənə deyənimə bir bax",
+"Yuxum yoxdu",
+"Sən nəcəb oyağsan",
+"Səni gözdüyürdüm",
+)
+
+
 getdim = (
 "Hara",
 )
