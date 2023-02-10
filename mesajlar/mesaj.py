@@ -42,13 +42,6 @@ ny = (
 "Yemək yeyirəm",
 )
 
-cg = (
-"Sən yat məndə yataram",
-"Mənə deyənimə bir bax,
-"sən niyə oyağsan",
-"Yuxum gəlmir",
-)
-
 sd = (
 "Allah şəfa versin",
 "Ölürsən",
