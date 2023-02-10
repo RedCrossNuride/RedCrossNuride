@@ -76,6 +76,14 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 @Nermin.on(events.NewMessage(pattern='(?i)niye yatmırsiz+'))
 @Nermin.on(events.NewMessage(pattern='(?i)Niye yatmirsan+'))
 @Nermin.on(events.NewMessage(pattern='(?i)niye yatmırsan+'))
+@Nermin.on(events.NewMessage(pattern='(?i)Yatmırsız+'))
+@Nermin.on(events.NewMessage(pattern='(?i)yatmırsız+'))
+@Nermin.on(events.NewMessage(pattern='(?i)Yatmırsan+'))
+@Nermin.on(events.NewMessage(pattern='(?i)yatmırsan+'))
+@Nermin.on(events.NewMessage(pattern='(?i)Yatmirsiz+'))
+@Nermin.on(events.NewMessage(pattern='(?i)yatmırsiz+'))
+@Nermin.on(events.NewMessage(pattern='(?i)Yatmirsan+'))
+@Nermin.on(events.NewMessage(pattern='(?i)yatmırsan+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(am)}")
 
