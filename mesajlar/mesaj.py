@@ -42,7 +42,7 @@ ny = (
 "Yemək yeyirəm",
 )
 
-bm = (
+sz = (
 "Bacı sənə qurban",
 "Bacınınn ürəyi buyur",
 "Gözəl mələyim de",
@@ -66,10 +66,10 @@ am = (
 "Səni gözdüyürdüm",
 )
 
-
 getdim = (
 "Hara",
 )
+
 getdim = (
 "Azzar nə",
 "Yox bir nənə",
