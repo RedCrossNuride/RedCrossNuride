@@ -1,5 +1,3 @@
-,,,,,,,,,,,,,,,,,
-
 
 from komekci.aykhan import Nermin
 import base64
