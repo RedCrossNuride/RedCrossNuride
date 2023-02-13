@@ -42,7 +42,7 @@ ny = (
 "Yemək yeyirəm",
 )
 
-bcm = (
+bm = (
 "Bacı sənə qurban",
 "Bacınınn ürəyi buyur",
 "Gözəl mələyim de",
