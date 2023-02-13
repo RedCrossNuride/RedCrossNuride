@@ -42,6 +42,14 @@ ny = (
 "Yemək yeyirəm",
 )
 
+bcm = (
+"Bacı sənə qurban",
+"Bacınınn ürəyi buyur",
+"Gözəl mələyim de",
+"Bacıdan isdəyin",
+"Gəldim",
+)
+
 sd = (
 "Allah şəfa versin",
 "Ölürsən",
@@ -150,6 +158,7 @@ yas = (
 "Atam qoymur yaşımı deyim",
 "Deyə bilmərəm",
 "Dövlət sirridi",
+"25 Yaşım var",
 "Girilməz zona",
 "Yaşın nə fərqi varki sevirəm səni",
 )
