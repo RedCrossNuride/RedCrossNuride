@@ -98,14 +98,14 @@ nrs = (
 )
 
 gul1 = (
-"Sənə gülməyi kim öyrədib",
-"Az gül",
+"Çənən qopsun elə",
+"Çənəsi qırılmış",
 )
 
 gul2 = (
-"mədəvin içini gördüm yavaş",
-"Gülməkdən öldün",
-"Gülüşüvə öküz kəsim",
+"Az gül çirkin",
+"Gülüşə bax sən elə bil meymun gülür",
+"O gülüşünlə basdırım səni görüm elə. ",
 )
 
 can = (
