@@ -1,21 +1,13 @@
-# Bu repo aykhan_s tərəfindən 29.11.2022 tarixində yığılıb
-# Bu repodan icazəsiz hər hansı kodu sətri məlumatı kopyalıyıb
-# Öz adına çıxaran peysərdi
-# Bu yazıları silmədən işlədin
 
-# t.me/RoBotlarimTg | YouTube: RoBotlarimTg |
-# t.me/aykhan_s | insta: aykhan026 | 
-# GitHub: aykhan026
 
 yeni_user = (
-"Xoş Gəldin Balam 😍",
-"Səni gözləməydən gözüm qaralıbe gəl çıxdaa",
-"Xoşsann Ürəyimm ❤️",
-"Səni kim gətirdi bura necə gəlmisən elədə get😏",
+"Sənə lazım idi bura gələsən. ",
+"Adam ol adam kimi yerə get. ",
+
 )
 
 start = (
-"Xoş gəlmisən",
-"Gözdüyürsən deyimki xoş gəldin ? 😂",
-"Grupda söhbətlər daha marağlı olacağ. 😂",
+"Niyə ölməmisən hələdə. ",
+"Barmağların qurusun elə. ",
+"ayağ üsdə qurumusan elə. ",
 )
