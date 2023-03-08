@@ -15,14 +15,10 @@ necesen = (
 )
 
 sagol = (
-"Salam Sağol",
-"Hara gedsən",
-"Yatıram demə🥲",
-"Sağolunnn yenə gözləyəriyy🙈",
-"Uşş balam Sağol",
-"Sağol canım benim 🫶",
-"Sağol Kişi",
-"Sağol Xanım qız",
+"Gəlişin olmasın heç.",
+"Get buralara ayağında dəyməsin. ",
+"Ayağı qırılmış necə gəlmişdi elədə getdi. ",
+"Sağ gəlmə. ",
 )
 
 ny = (
