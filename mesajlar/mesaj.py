@@ -140,15 +140,10 @@ haralisan = (
 )
 
 yas = (
-"Sən neyniyirsən yaşımı",
-"Niyə belə maraglidi sene",
-"Anam qoymur demeye yaşımı",
-"Atam qoymur yaşımı deyim",
-"Deyə bilmərəm",
-"Dövlət sirridi",
-"25 Yaşım var",
-"Girilməz zona",
-"Yaşın nə fərqi varki sevirəm səni",
+"Yaş vacib deyil narahat olma məndən tez öləcəksən onsuz. ",
+"Yaşımın sayı qədər daş başıva",
+"Yaşım qədər cəhənnəmdə yanasan elə  ",
+"Deyəsən ölümün gəlib",
 )
 
 ax = (
