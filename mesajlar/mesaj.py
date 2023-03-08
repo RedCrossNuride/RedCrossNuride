@@ -1,15 +1,10 @@
 
 
 salam = (
-"Salam",
-"Salam Kişi",
-"Salam Balam",
-"Salamdaa",
-"Uşş balama salam",
-"Salam Cənab ",
-"Salam Xanım",
-"Həmişə sən gələsən elə ",
-"Səni görmək nə xoş surpiriz",
+"Səni Allah vursun elə",
+"Qatar altında qalasan ele salam yazan yerdə",
+"Aranızda bir dənə kişi yoxdu bunu öldürsün",
+
 )
 
 necesen = (
