@@ -9,5 +9,5 @@ yeni_user = (
 start = (
 "Niyə ölməmisən hələdə. ",
 "Barmağların qurusun elə. ",
-"ayağ üsdə qurumusan elə. ",
+"Ayağ üsdə qurumusan elə. ",
 )
