@@ -55,7 +55,8 @@ am = (
 )
 
 getdim = (
-"Hara",
+"Dalınca bir vaqon daş",
+"Gözüm aydın getdin.",
 )
 
 getdim = (
@@ -64,7 +65,7 @@ getdim = (
 )
 
 hi = (
-"Hi girsin gözüvə",
+"Hidi bildiyi ancağ ölmüşün ",
 )
 
 hara = (
