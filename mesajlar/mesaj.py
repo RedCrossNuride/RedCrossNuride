@@ -8,13 +8,10 @@ salam = (
 )
 
 necesen = (
-"Saol",
-"Həkimsən ?",
-"Ə belədana 😂",
-"What",
-"İyyim aşkım sen ?",
-"yaxşı olmağa çalışıram",
-"Mən başımı buraxe sən necəsən 😂",
+"Heç sənə dəxlisi var",
+"Sənin kimi birisinin  Allah belasını versin",
+"Səni görüm 1000 parçaya bölünəsən elə onu yazan yerdə ",
+"Adam ol sürüş burdan ",
 )
 
 sagol = (
