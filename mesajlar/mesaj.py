@@ -160,7 +160,7 @@ geldim = (
 "Xoş Gəlmədin səni gözüm görməsin hec ",
 )
 
-nazli = (
+qargis = (
 "Ölümün gəlib deyəsən",
 "Get əcəlivi başqa yerdə axdar",  
 "Kim məni çağırdı?", 
@@ -172,6 +172,13 @@ nazli = (
 "Nazlın sənə qurban de",
 "Nazlının ürəyi", 
 "Ürəyim buyur", 
+)
+
+nazli = (
+"Balaca bacımdı",
+"Gözəl İnsandı",
+"Tag ad: @nazlisohbetbot",
+"Mənim əksimə o şirin dildi.",
 )
 
 nermin = (
