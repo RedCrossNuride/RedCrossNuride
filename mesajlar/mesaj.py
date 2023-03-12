@@ -119,25 +119,19 @@ can = (
 )
 
 yuxu = (
-"Şirin yuxular",
-"Nə tez gedirsən yatmağa",
-"Saxlıyan var idi səni güya  get get ",
-"Zəhləm getmiş get yat",
-"Az yat deyellər adama",
-"Həmişə yatırsan elə",
-"Öl elə oyanma",
+"Yatasan ayılmayasan heç",
+"Öl elə yatağında ayılma",
+"Səni görüm yatdığın yerdə cin şeytan aparsın elə",
+"Siçan zəhəri vermişəm sənə az sonra öləcəksən bilmiş ol",
+"Yastığın daşa dönsün",
 )
 
 haralisan = (
 "Sənə nə var bax marağlanırsan",
-"Sən de sonra mən deyərəm",
-"Xaçmaz",
-"Bakı", 
-"Quba",
-"Lerik", 
-"Deyə bilmərəm anam məni döyər.", 
-"Deyə bilmərəm atam məni döyər.", 
-"Atam anam qoymur harali olduğumu deyim.",
+"Sən girən kolluğ deyil", 
+"Öldüyün gün deyərəm bərkə.", 
+"Səni gəlib asacam orda birdə o sualı vermə.", 
+"atama deyirəm indi belə bir gədə var gəlsin səni öldürsün.",
 )
 
 yas = (
@@ -155,14 +149,14 @@ ax = (
 )
 
 sev = (
-"Buyur Ömrüm",
-"Məndə səni sevirəm",
-"Yaxşiki varımsan",
-"Ömrüm de",
+"Sevənin ağlı yoxdu biridə sən",
+"mənim səndən zəhləm gedir",
+"Ölsən məzarına güldə tikmərəm",
+"Ömrümü yedin əl çəkdə",
 )
 
 geldim = (
-"Xoş Gəldin ❤️",
+"Xoş Gəlmədin səni gözüm görməsin hec ❤",
 )
 
 nazli = (
@@ -187,9 +181,9 @@ nermin = (
 )
 
 ban = (
-"Vəhşii",
-"Həri Vəhşii",
-"Vəhşi Panteramm kimə ban atdın",
+"Vəhşi",
+"Həri Vəhşi",
+"Halaldı onun yeri ele oradı",
 "Havada ban kokusu var",
 )
 
