@@ -22,12 +22,12 @@ sagol = (
 )
 
 ny = (
-"Heçnə oturmuşam",
-"Çay içirəm",
-"Kofe içirəm gəl qonağ ol",
-"Qonağ gəlmişəm",
-"Qızlarla gəzirəm",
-"Yemək yeyirəm",
+"Zəhərlənirəm səndə gəl.",
+"Zəhər  edirəm canıva dərd edirəm.",
+"Buna mən zəhər verib öldürəcəm gözüm su içmədim səndən",
+"Qonağ gəlib bizə gezmişəm monlara baxanda sən yadıma düşürsən ifritə.",
+"Doslarım gəlib səni soruşullar dedimki ölüm basdıranı lazımdı.",
+"Sənə yasin oxuyuram.",
 )
 
 bc = (
@@ -153,18 +153,19 @@ sev = (
 "mənim səndən zəhləm gedir",
 "Ölsən məzarına güldə tikmərəm",
 "Ömrümü yedin əl çəkdə",
+"Səni görüm evdə qalasan alan olmasın heç",
 )
 
 geldim = (
-"Xoş Gəlmədin səni gözüm görməsin hec ❤",
+"Xoş Gəlmədin səni gözüm görməsin hec ",
 )
 
 nazli = (
-"Buyur ❤️",
-"Kim idi?",  
+"Ölümün gəlib deyəsən",
+"Get əcəlivi başqa yerdə axdar",  
 "Kim məni çağırdı?", 
 "Yetimçə məni niyə çağırırsan?",
-"Yatmışdım şirin yuxumdan məni niyə oyatdın bax",
+"Get rahat ölümü seç məndən  uzağ dur ",
 "Nə olub?", 
 "Azzar",
 "Mənim adımı kim çəkdi?",
@@ -174,7 +175,7 @@ nazli = (
 )
 
 nermin = (
-"Haycannn",
+"Sırtığ",
 "Haycannn, Quzu kəsime sənə",
 "Bəliii🫶",
 "Nə gözəl deyirsəne, birdə de",
