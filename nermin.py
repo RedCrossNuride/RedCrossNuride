@@ -214,6 +214,10 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 @Nermin.on(events.NewMessage(pattern='(?i)Ömrüm+'))
 @Nermin.on(events.NewMessage(pattern='(?i)Sevdiyim+'))
 @Nermin.on(events.NewMessage(pattern='(?i)Canım+'))
+@Nermin.on(events.NewMessage(pattern='(?i)Sevmək+'))
+@Nermin.on(events.NewMessage(pattern='(?i)sevmək+'))
+@Nermin.on(events.NewMessage(pattern='(?i)Sevmek+'))
+@Nermin.on(events.NewMessage(pattern='(?i)sevmek+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(sev)}")
 
