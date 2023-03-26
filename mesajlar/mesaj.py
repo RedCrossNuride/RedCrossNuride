@@ -21,6 +21,12 @@ sagol = (
 "Sağ gəlmə. ",
 )
 
+ozun = (
+"Özün öl elə.",
+"Mənim canım şirindi səninkini mışdar yesin. ",
+"Sən öl elə canımız qurtarar bərkə. ",
+)
+
 ny = (
 "Zəhərlənirəm səndə gəl.",
 "Zəhər  edirəm canıva dərd edirəm.",
@@ -109,13 +115,9 @@ gul2 = (
 )
 
 can = (
-"Haycannn",
-"Haycannn, Quzu kəsime sənə",
-"Bəli",
-"Canın şirin",
-"Səni Sevirəm",
-"Dilinə qurban",
-"Nə gözəl deyirsəne, birdə de",
+"Canıva Azzar ",
+"Canıva da ürəyivədə ox",
+
 )
 
 yuxu = (
