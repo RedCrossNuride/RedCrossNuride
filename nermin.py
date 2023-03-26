@@ -1,7 +1,7 @@
 
 from komekci.aykhan import Nermin
 import base64
-from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, qargis, am, hi, hara, ds, nazli, bc, sd, ny,ax, nrs, sev, gul1, gul2, brs, yuxu, haralisan, can, yas, nermin, ban
+from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, qargis, am, ozun, hi, hara, ds, nazli, bc, sd, ny,ax, nrs, sev, gul1, gul2, brs, yuxu, haralisan, can, yas, nermin, ban
 from mesajlar.bot import yeni_user, start
 from telethon import events, Button
 import random
@@ -76,6 +76,16 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 @Nermin.on(events.NewMessage(pattern='(?i)baci+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(bc)}")
+
+@Nermin.on(events.NewMessage(pattern='(?i)Öl+'))
+@Nermin.on(events.NewMessage(pattern='(?i)öl+'))
+@Nermin.on(events.NewMessage(pattern='(?i)sən öl+'))
+@Nermin.on(events.NewMessage(pattern='(?i)Sən öl+'))
+@Nermin.on(events.NewMessage(pattern='(?i)Öl Elə+'))
+@Nermin.on(events.NewMessage(pattern='(?i)Ol elə+'))
+@Nermin.on(events.NewMessage(pattern='(?i)ol elə+'))
+async def yeni_mesaj(event: events.NewMessage.Event):
+    await event.reply(f"{random.choice(ozun)}")
 
 @Nermin.on(events.NewMessage(pattern='(?i)Niyə yatmırsız+'))
 @Nermin.on(events.NewMessage(pattern='(?i)niyə yatmırsız+'))
