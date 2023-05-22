@@ -265,10 +265,10 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(gul1)}")
     
-@Nermin.on(events.NewMessage(pattern='(?i)🙂+'))
-@Nermin.on(events.NewMessage(pattern='(?i)🙂🙂+'))
-@Nermin.on(events.NewMessage(pattern='(?i)🙂🙂🙂+'))
-@Nermin.on(events.NewMessage(pattern='(?i)🙂🙂🙂🙂+'))
+@Nermin.on(events.NewMessage(pattern='(?i)😳+'))
+@Nermin.on(events.NewMessage(pattern='(?i)😳😳+'))
+@Nermin.on(events.NewMessage(pattern='(?i)😳😳😳+'))
+@Nermin.on(events.NewMessage(pattern='(?i)😳😳😳😳+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(bax)}")
 
