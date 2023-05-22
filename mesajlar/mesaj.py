@@ -7,6 +7,12 @@ salam = (
 
 )
 
+bax = (
+"Nə baxırsan tok vurmuş eşşək kimi🤣🤣🤣",
+"Mənə baxan yerdə gözüvə şiş batsın əlacın tapılmasın.",
+"O çəp gözlərivi reklam eləmə.",
+
+)
 necesen = (
 "Heç sənə dəxlisi var",
 "Sənin kimi birisinin  Allah belasını versin",
