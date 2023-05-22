@@ -118,6 +118,8 @@ gul2 = (
 "Az gül çirkin",
 "Gülüşə bax sən elə bil meymun gülür",
 "O gülüşünlə basdırım səni görüm elə. ",
+"Ağzından meyid iyi gəlir bağla ağzıvı. ",
+"Mədəndə kanalizasiya xətti keçir bəyəm belə iy verir ağzın. ",
 )
 
 can = (
