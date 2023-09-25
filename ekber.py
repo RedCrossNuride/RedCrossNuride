@@ -311,11 +311,13 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 @Ekber.on(events.NewMessage(pattern='(?i)Anavı sikim+'))
 @Ekber.on(events.NewMessage(pattern='(?i)Anavi sikim+'))
 @Ekber.on(events.NewMessage(pattern='(?i)anavı sikim+'))
-@Ekber.on(events.NewMessage(pattern='(?i)anavui sikim+'))
+@Ekber.on(events.NewMessage(pattern='(?i)anavi sikim+'))
 @Ekber.on(events.NewMessage(pattern='(?i)Bacivi sikim+'))
 @Ekber.on(events.NewMessage(pattern='(?i)bacivi sikim+'))
 @Ekber.on(events.NewMessage(pattern='(?i)Bacıvı sikim+'))
 @Ekber.on(events.NewMessage(pattern='(?i)bacıvı sikim+'))
+@Ekber.on(events.NewMessage(pattern='(?i)Göt+'))
+@Ekber.on(events.NewMessage(pattern='(?i)göt+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.delete()
     
