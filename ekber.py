@@ -308,6 +308,8 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 @Ekber.on(events.NewMessage(pattern='(?i)sikim sənin ağzıvı+'))
 @Ekber.on(events.NewMessage(pattern='(?i)Peyser+'))
 @Ekber.on(events.NewMessage(pattern='(?i)peyser+'))
+@Ekber.on(events.NewMessage(pattern='(?i)Pesi+'))
+@Ekber.on(events.NewMessage(pattern='(?i)pesi+'))
 @Ekber.on(events.NewMessage(pattern='(?i)Anavı sikim+'))
 @Ekber.on(events.NewMessage(pattern='(?i)Anavi sikim+'))
 @Ekber.on(events.NewMessage(pattern='(?i)anavı sikim+'))
