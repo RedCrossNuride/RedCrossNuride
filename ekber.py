@@ -1,6 +1,6 @@
 from komekci.ekber import Ekber
 import base64
-from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, qargis, am, ozun, hi, bax, hara, ds, nazli, bc, sd, ny,ax, nrs, sev, gul1, gul2, brs, yuxu, haralisan, can, yas, nermin, ban
+from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, qargis, am, ozun, hi, bax, hara, ds, nazli, bc, sd, ny,ax, nrs, sev, gul1, gul2, brs, yuxu, haralisan, can, yas, ban
 from mesajlar.bot import yeni_user, start
 from telethon import events, Button
 import random
@@ -135,13 +135,6 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 @Ekber.on(events.NewMessage(pattern='(?i)mən gəldim+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(geldim)}")
-
-@Ekber.on(events.NewMessage(pattern='(?i)gül+'))
-@Ekber.on(events.NewMessage(pattern='(?i)gülümsə+'))
-@Ekber.on(events.NewMessage(pattern='(?i)Gülümsə+'))
-@Ekber.on(events.NewMessage(pattern='(?i)balam+'))
-async def yeni_mesaj(event: events.NewMessage.Event):
-    await event.reply(f"{random.choice(nermin)}")
 
 @Ekber.on(events.NewMessage(pattern='(?i)ban+'))
 @Ekber.on(events.NewMessage(pattern='(?i)kick+'))
