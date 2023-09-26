@@ -1,4 +1,4 @@
-from komekci.aykhan import Ekber
+from komekci.ekber import Ekber
 import base64
 from mesajlar.mesaj import salam, necesen, sagol, getdim, geldim, qargis, am, ozun, hi, bax, hara, ds, nazli, bc, sd, ny,ax, nrs, sev, gul1, gul2, brs, yuxu, haralisan, can, yas, nermin, ban
 from mesajlar.bot import yeni_user, start
