@@ -191,13 +191,6 @@ nazli = (
 "Mənim əksimə o şirin dildi.",
 )
 
-nermin = (
-"Sırtığ",
-"Haycannn, Quzu kəsime sənə",
-"Bəliii🫶",
-"Nə gözəl deyirsəne, birdə de",
-)
-
 ban = (
 "Vəhşi",
 "Həri Vəhşi",
